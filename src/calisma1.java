@@ -9,7 +9,7 @@ public static void main ( String [] args ) {
 			
 			String deger = "*" ;
 			
-			System.out.println ( " Lütfen üçgenin taban değerini giriniz. " ) ;
+			System.out.println ( " Lütfen üçgenin taban değerini giriniz... " ) ;
 			
 			tabanDegeri = tara.nextInt () ;
 
