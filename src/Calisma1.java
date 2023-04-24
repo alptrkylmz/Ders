@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calisma1 {
+public class Calisma1 {
 
 public static void main ( String [] args ) {
     	
