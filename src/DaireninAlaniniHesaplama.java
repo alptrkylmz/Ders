@@ -14,7 +14,7 @@ public class DaireninAlaniniHesaplama {
 				r = tara.nextInt() ;
 				
 					daireninAlani = pi*(r*r) ;
-						System.out.println("Dağirenizin alanı : " + daireninAlani);
+						System.out.println("Dairenizin alanı : " + daireninAlani);
 		}
 	}	
 	}
